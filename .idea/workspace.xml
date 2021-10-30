@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d694edc3-3b81-49bd-b156-01cf033e328a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +15,20 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20DGvgefETK2XZqVbK4J1yH2rtl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,11 +37,25 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.17.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seper\PhpstormProjects\sandbox-test\src\test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seper\PhpstormProjects\sandbox-test\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,11 +67,70 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635571976283</updated>
-      <workItem from="1635571978064" duration="319000" />
+      <workItem from="1635571978064" duration="3590000" />
+      <workItem from="1635577558643" duration="3368000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1635572320022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635572320022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="1" key="CommitChangelistDialog2" timestamp="1635572319329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="1" key="CommitChangelistDialog2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572319329" />
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1635575750392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="215" key="FileChooserDialogImpl/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635575750392" />
+    <state width="1865" height="265" key="GridCell.Tab.0.bottom" timestamp="1635577274707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.bottom/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635577274707" />
+    <state width="1865" height="265" key="GridCell.Tab.0.center" timestamp="1635577274706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.center/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635577274706" />
+    <state width="1865" height="265" key="GridCell.Tab.0.left" timestamp="1635577274706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.left/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635577274706" />
+    <state width="1865" height="265" key="GridCell.Tab.0.right" timestamp="1635577274706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="265" key="GridCell.Tab.0.right/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635577274706" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1635572322380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572322380" />
+    <state x="695" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635572255178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572255178" />
+    <state x="687" y="349" key="git4idea.rebase.GitRebaseDialog" timestamp="1635572241614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="349" key="git4idea.rebase.GitRebaseDialog/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572241614" />
+    <state x="714" y="405" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1635572235130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="405" key="git4idea.remote.GitConfigureRemotesDialog/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572235130" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1635577798580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635577798580" />
   </component>
 </project>
