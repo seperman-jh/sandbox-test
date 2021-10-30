@@ -4,8 +4,6 @@
     <list default="true" id="d694edc3-3b81-49bd-b156-01cf033e328a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/general.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635571976283</updated>
       <workItem from="1635571978064" duration="3590000" />
-      <workItem from="1635577558643" duration="3368000" />
+      <workItem from="1635577558643" duration="4889000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1635572320022</created>
@@ -77,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635572320022</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Expression test (Spread &amp; Rest)">
+      <created>1635580982185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635580982185</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,13 +90,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Expression test (Spread &amp; Rest)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expression test (Spread &amp; Rest)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="1" key="CommitChangelistDialog2" timestamp="1635572319329">
+    <state x="440" y="1" key="CommitChangelistDialog2" timestamp="1635580981421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="1" key="CommitChangelistDialog2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572319329" />
+    <state x="440" y="1" key="CommitChangelistDialog2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635580981421" />
     <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1635575750392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -112,10 +118,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="265" key="GridCell.Tab.0.right/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635577274706" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1635572322380">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1635580983373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635572322380" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/1920.-4.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1635580983373" />
     <state x="695" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635572255178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
